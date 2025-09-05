@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ebele</title>
+    
+</head>
+<body style="background-color: darkred;">
+    <H1>
+        My name is okonkwo ebele and most of you dont know me but i am here to tell yu about my school in Enugu ?
+    </H1>
+    <p style="font-style: italic;font-size: 54px;">OFFICIAL WELCOME TO KAYLA SCHOOL</p>
+    <p style="font-style: italic;font-size: 23px;">
+        The name of my school is ayla InternationalMontesssori school and it is the best school in Enugu it has 23 clesses that have now turned to 22 and it also has 20teachers recently
+        If you want to know where I live, then It will be written below
+    </p>
+    <button>Recently I am in ibadan Oremegi in Akitiko near iwo road</button>
+    <p><button type="button">And in Enugu, I live behind Jezco in maryland estate</button></p>
+    <p>
+        Now I am going to show you some classes in kayla school, they are chreche
+    </p>
+</body>
+</html>
